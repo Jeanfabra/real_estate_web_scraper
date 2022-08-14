@@ -1,4 +1,4 @@
-# real_state_web_scraper
+# real_estate_web_scraper
 This is my first scraper using Selenium + XPATH tool. Since I have always liked real state, I decided to create a program that allows the user to download important information to later manipulate and analyze it.
 
 This program allows the user to download the following data:
